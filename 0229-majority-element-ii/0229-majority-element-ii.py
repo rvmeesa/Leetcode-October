@@ -34,5 +34,5 @@ class Solution(object):
             result.append(candidate1)
         if count2 > len(nums) // 3:
             result.append(candidate2)
-
+#return result
         return result
